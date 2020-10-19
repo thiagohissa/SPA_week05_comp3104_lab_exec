@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.8b04e245.chunk.css",
-  "main.js": "/static/js/main.1ed5f980.chunk.js",
-  "main.js.map": "/static/js/main.1ed5f980.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
-  "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
-  "static/js/2.206892ec.chunk.js": "/static/js/2.206892ec.chunk.js",
-  "static/js/2.206892ec.chunk.js.map": "/static/js/2.206892ec.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.e21f8a03697cfcb844d5921794e07ac6.js": "/precache-manifest.e21f8a03697cfcb844d5921794e07ac6.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.8b04e245.chunk.css.map": "/static/css/main.8b04e245.chunk.css.map"
+  "main.css": "/SPA_week05_comp3104_lab_exec/static/css/main.8b04e245.chunk.css",
+  "main.js": "/SPA_week05_comp3104_lab_exec/static/js/main.e94cfb4a.chunk.js",
+  "main.js.map": "/SPA_week05_comp3104_lab_exec/static/js/main.e94cfb4a.chunk.js.map",
+  "runtime~main.js": "/SPA_week05_comp3104_lab_exec/static/js/runtime~main.cba7f6e6.js",
+  "runtime~main.js.map": "/SPA_week05_comp3104_lab_exec/static/js/runtime~main.cba7f6e6.js.map",
+  "static/js/2.206892ec.chunk.js": "/SPA_week05_comp3104_lab_exec/static/js/2.206892ec.chunk.js",
+  "static/js/2.206892ec.chunk.js.map": "/SPA_week05_comp3104_lab_exec/static/js/2.206892ec.chunk.js.map",
+  "index.html": "/SPA_week05_comp3104_lab_exec/index.html",
+  "precache-manifest.03ffccf1c6fe62cb352128714e8b4bd1.js": "/SPA_week05_comp3104_lab_exec/precache-manifest.03ffccf1c6fe62cb352128714e8b4bd1.js",
+  "service-worker.js": "/SPA_week05_comp3104_lab_exec/service-worker.js",
+  "static/css/main.8b04e245.chunk.css.map": "/SPA_week05_comp3104_lab_exec/static/css/main.8b04e245.chunk.css.map"
 }
